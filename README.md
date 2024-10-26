@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-    git clone <repository-url>
+    git clone https://github.com/tarifi79/Auth-Workflow
     cd auth-workflow
 ```
 
@@ -390,4 +390,4 @@ auth-workflow/
 ## Contact
 
 Mohammed Darras - tarifi79@gmail.com,
-Project Link: https://github.com/yourusername/auth-workflow
+Project Link: https://github.com/tarifi79/Auth-Workflow
